@@ -3,3 +3,4 @@
 3 menguasi Bootstrap
 4 menguasi PHP
 5 menguasi React
+6 membuat channel youtube
