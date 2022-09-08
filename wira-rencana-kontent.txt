@@ -1,3 +1,4 @@
 Kuliah predikat Cumlaude
 kuliah lulus tepat waktu
 jadi panutan semua orang
+menambahkan fitur ES6 di javascript version control
