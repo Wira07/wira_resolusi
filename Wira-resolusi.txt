@@ -1,3 +1,5 @@
 1 menguasi UI UX Design 
 2 menguasi HTML CSS Javascript
 3 menguasi Bootstrap
+4 menguasi PHP
+5 menguasi React
