@@ -4,3 +4,4 @@ jadi panutan semua orang
 menambahkan fitur ES6 di javascript version control
 menambahkan fitur java
 menambahkan fitur PHP
+menambahkan fitur React
